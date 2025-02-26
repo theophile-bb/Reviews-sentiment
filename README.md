@@ -16,10 +16,13 @@ The project is divided into 2 parts :
 • *Sentiment Analysis webapp.ipynb*: Divided into 3 tools :
 
 1. Message sentiment retriever (Input : word / sentence. Output : sentiment and confidence score of the message.)
+Gives the sentiment and confidence score of a message.
 
-2. File converter (Input : csv file with reviews. Output : JSON file with reviews)
+2. File converter (Input : csv file with reviews, desired sample size. Output : JSON file with reviews)
+Convert a csv file into a json sample.
 
 3. Wordcloud generator (Input : JSON file with reviews, desired sentiment. Output : wordcloud for the associated reviews and sentiment)
+Generates wordcloud representations based on the selected sentiment.
 
 ## Dataset
 This study was led on 33700 hotel reviews. Each entry is a different review that I wanted to analyze using a Transformer.
@@ -47,5 +50,10 @@ Calculation of the most recurrent comments based on sentiment : calculating the 
 
 Bag of Words (BoW): Representing text as a frequency distribution of words.
 
+## How to use ?
 
+In the 'Data' folder you can find the data sources:
 
+• *reviews.csv* is the original raw data used. It can be used to test the file converter webapp to get a review sample in JSON.
+
+• *reviews sample 1.json* & *review sample 2.json* are two data samples that can be used to test the wordcloud generator tool.
