@@ -1,0 +1,1252 @@
+{
+    "0": {
+        "review": "Pleasant 10 min walk along the sea front to the Water Bus. restaurants etc. Hotel was comfortable breakfast was good - quite a variety. Room aircon didn't work very well. Take mosquito repelant!",
+        "sentiment": "positive",
+        "score": 0.793499231338501
+    },
+    "1": {
+        "review": "Really lovely hotel. Stayed on the very top floor and were surprised by a Jacuzzi bath we didn't know we were getting! Staff were friendly and helpful and the included breakfast was great! Great location and great value for money. Didn't want to leave!",
+        "sentiment": "positive",
+        "score": 0.9853826761245728
+    },
+    "2": {
+        "review": "Ett mycket bra hotell. Det som drog ner betyget var att vi fick ett rum under taksarna dr det endast var full sthjd i 80 av rummets yta.",
+        "sentiment": "neutral",
+        "score": 0.8369141221046448
+    },
+    "3": {
+        "review": "We stayed here for four nights in October. The hotel staff were welcoming, friendly and helpful. Assisted in booking tickets for the opera. The rooms were clean and comfortable- good shower, light and airy rooms with windows you could open wide. Beds were comfortable. Plenty of choice for breakfast.Spa at hotel nearby which we used while we were there.",
+        "sentiment": "positive",
+        "score": 0.9392370581626892
+    },
+    "4": {
+        "review": "We stayed here for four nights in October. The hotel staff were welcoming, friendly and helpful. Assisted in booking tickets for the opera. The rooms were clean and comfortable- good shower, light and airy rooms with windows you could open wide. Beds were comfortable. Plenty of choice for breakfast.Spa at hotel nearby which we used while we were there.",
+        "sentiment": "positive",
+        "score": 0.9392370581626892
+    },
+    "5": {
+        "review": "We loved staying on the island of Lido! You need to take a water is from Venice to get there. From the train station, a boat ride takes 45 minutes but has beautiful views along the way. Hotel is an EASY walk from the boat dock. The room was very clean and the breakfast was plentiful. We would definitely recommend this hotel!",
+        "sentiment": "positive",
+        "score": 0.9809495806694031
+    },
+    "6": {
+        "review": "Lovely view out onto the lagoon. Excellent view. Staff were welcoming and helpful.",
+        "sentiment": "positive",
+        "score": 0.9865095019340515
+    },
+    "7": {
+        "review": "ottimo soggiorno e ottima sistemazione nei giorni frenetici di inaugurazione della Biennale. Le signore alla reception sono efficientissime e squisite e non sono da meno le ragazze che servono la prima colazione. Da tornarci",
+        "sentiment": "neutral",
+        "score": 0.6941378712654114
+    },
+    "8": {
+        "review": "Gnstiger Ausgangspunkt fr Venedig Besuche. Ruhige Lage auf dem Lido. Flugplatz Lido und Bootsanlegestellen fulufig erreichbar. Zimmer ziemlich eng, aber alles vorhanden. Frhstck fr Italien ausgesprochen reichhaltig. Hotel sollte regelmig einen Kammerjger beschftigen, da ein Befall mit Wanzen festzustellen war.",
+        "sentiment": "neutral",
+        "score": 0.7393408417701721
+    },
+    "9": {
+        "review": "Lidoen er perfekt til et par dages ro og afslapning, skn strand, lkkert omrde og lille hyggeligt familiehotel med et sdt personale",
+        "sentiment": "neutral",
+        "score": 0.8672885894775391
+    },
+    "10": {
+        "review": "Accueil chaleureux, en franais Changement du linge de lit tous les jours, lit confortable, salle de bain de bonne taille et bien quipe. Petit djeuner copieux et vari.",
+        "sentiment": "neutral",
+        "score": 0.8410925269126892
+    },
+    "11": {
+        "review": "It was ok hotel is nice from in and out but room was small we paid for double bed bat they atteched 2 single bed",
+        "sentiment": "positive",
+        "score": 0.7800401449203491
+    },
+    "12": {
+        "review": "Klasse Frhstck, freundliches und aufmerksames Personal, gute Anbindung nach Venedig, Zimmer vllig ok und sauber, Parkplatz in der Nhe gut verfgbar. Wrden wir wieder whlen!",
+        "sentiment": "neutral",
+        "score": 0.7361963987350464
+    },
+    "13": {
+        "review": "Bardzo sympatyczna obsuga, klimat hotelu. wietna azienka, widok na zatok. Bardzo dobry stosunek cena/jakosc. Polecam!",
+        "sentiment": "neutral",
+        "score": 0.8494093418121338
+    },
+    "14": {
+        "review": "Bra o lugnt lge. Stor terrass. Nra till den hrliga Lidostranden.Bara en TV-kanal. Bra frukost. Litet opraktiskt badrum.Trevlig och kunnig personal.",
+        "sentiment": "neutral",
+        "score": 0.6833963394165039
+    },
+    "15": {
+        "review": "The hotel staff was very friendly and helpful. The room was clean and comfortable. My wife and I had a room with a terrace over looking the water...it was a great view! I will look to stay at this hotel my next time in Venice...very pleased.",
+        "sentiment": "positive",
+        "score": 0.9834896326065063
+    },
+    "16": {
+        "review": "Nice hotel , with very friendly staff and helpful - great choice for breakfast , something for everyone.",
+        "sentiment": "positive",
+        "score": 0.9848854541778564
+    },
+    "17": {
+        "review": "Wir hatten leider Pech mit unserem Zimmer,war in einem winzigen Hof, sehr hellhrig. Personal war sehr nett, Frhstck sehr gut.",
+        "sentiment": "neutral",
+        "score": 0.7135846018791199
+    },
+    "18": {
+        "review": ". .",
+        "sentiment": "neutral",
+        "score": 0.8132795691490173
+    },
+    "19": {
+        "review": "Hotellihuone oli ullakolla, jossa ei pystynyt kvelemn suorassa. Huonekorkeus oli suurimmassa osassa n. 1,5m. Huoneestamme varastettiin rannekoru ja neuletakki. Lisksi Spa ei ollut hotellissa vaan n. kilometrin pss toisessa hotellissa. Laivalaiturilta oli kilometrin matka hotelliin. Lidon saari on kyll hyv majoituspaikka kun vierailee Venetsiassa, mutta en suosittele tt hotellia.",
+        "sentiment": "neutral",
+        "score": 0.8290337920188904
+    },
+    "20": {
+        "review": "DON'T stay here unless you're less than 2 feet tall or like sleeping with centipedes. Our 4th floor room was an attic with a vaulted ceiling that angles down to 3ft. The bed is only accessible from one side. If you placed your head in the skylight on the other side you might able sit up. The bathtub was impractical with broken shower head. We moved to the 1st floor the next day and within minutes found a centipede on the wall and15 flies. We asked for a broom to get rid of the centipede. Later in the day the receptionist said she gave us something to control the bugs. We never complained about the drain flies so she must have noticed a problem. That night we spent 2 hrs catching 6 centipedes in our room. 2 came from throw pillows. We asked reception for a new room or hotel but there supposedly weren't any hotels with open rooms and if we wanted leave we would have to pay for transportation and both hotels. The next morning we went to reception to tell them about the bug problem. We barely said anything before the woman apologized and said they didn't put the bugs in the room on purpose so we should just go about our day and forget it. She added that she often goes on vacation with her children and sometimes things happen, so she tries to make the best of everything and not start a war. Adding, a few euros isn't going to make anything go away so we should just go enjoy the day because more we talk the less time we have.",
+        "sentiment": "negative",
+        "score": 0.6563423871994019
+    },
+    "21": {
+        "review": "We had absolutely no problems whatsoever with this hotel and were very pleasantly surprised by the quality considering the low price. The dcor of the room was pleasant and flawless, unlike many of the Venice hotels I've stayed in. The breakfast buffet was delicious too. And to finish all this off, the staff couldn't have been friendlier or more helpful. In terms of location, the hotel is about 10 minutes walk from the Lido waterbus stop, then a boat takes around 15 mins to get into Venice. We didn't find this a problem at all - we knew this was going to be the case so had pre-booked transport tickets to save money. The surrounding Lido is pleasant and worth an explore in a spare couple of hours. In conclusion, I would book this again due to the fantastic quality of the hotel, despite the trade-off of not being in Venice itself.",
+        "sentiment": "positive",
+        "score": 0.945228099822998
+    },
+    "22": {
+        "review": "Wir buchten das Hotel fr 4 Nchte in der Woche vor Ostern. Der Aufenthalt war durchweg angenehm. Das Frhstcksbuffet war reichhaltig und frisch (allerdings rate ich von dem Rhrei ab). Wenn etwas aufgebraucht war, wurde es umgehend aufgefllt. Vom Frhstcksraum aus konnte man den Blick ber die Lagune genieen. Obwohl unser Zimmer im Erdgeschoss zur Nebenstrae hin lag, war es dort sehr ruhig. Die Einrichtung ist geschmackvoll und zweckmig. An Sauberkeit mangelte es nicht. Obwohl wir nicht den Anspruch stellten, wurden die Handtcher tglich gewechselt. Das einzige Manko war die Temperatur des Duschwassers. Es wechselte stndig von ziemlich kalt zu sehr hei. Erwhnenswert ist auch das Waschbecken. Der Wasserhahn ist ziemlich klein und so ber dem hervorstehenden berlauf angebracht, dass es schon schwierig ist, die Hnde darunter zu waschen. Der Empfang an der Rezeption war sehr freundlich. Leider war unser Koffer nicht mit uns angekommen. Die nette Empfangsdame kmmerte sich darum und hielt Kontakt mit dem Flughafen. Am nchsten Tag wurden wir vom Hotel aus benachrichtigt, dass unser Koffer nun da sei. Gleich in der Nhe des Hotels ist eine Bushaltestelle. Wir fuhren allerdings nie mit dem Bus, da der Weg zum Anleger fr die Wasserbusse nicht weit war. Das Warten auf den nchsten Bus htte mitunter lnger gedauert, als zu Fu zu dem Anleger zu gehen.",
+        "sentiment": "neutral",
+        "score": 0.6851332187652588
+    },
+    "23": {
+        "review": "Lovely hotel, 10 min walk to the water bus stop on lido. Away from the madness of Venice, but close enough to be there in less than 20 minutes.",
+        "sentiment": "positive",
+        "score": 0.9627393484115601
+    },
+    "24": {
+        "review": "Das Hotel liegt auf der Insel Lido neben Venedig, direkt am Meer mit Blick auf Venedig. Lido kann man sehr gut mit den Booten erreichen. Vom Bootsanlegeplatz sind es ca. 400 m zum Hotel an der Kste entlang. Den Weg mussten wir zu Fu zurcklegen, da keine Busse wegen einer Baustelle dorthin fahren. Wir wurden sehr freundlich empfangen, berhaupt war das Personal im Hotel sehr nett und hilfsbereit. Das Zimmer war gemtlich eingerichtet, das Bad relativ gro und alles sehr sauber und ordentlich. Auch mit dem Frhstcksbffet waren wir sehr zufrieden - gute Qualitt und relativ groe Auswahl. Wir waren rundherum zufrieden und wrden das Hotel sofort wieder buchen.",
+        "sentiment": "neutral",
+        "score": 0.7827320694923401
+    },
+    "25": {
+        "review": "Located on the Lido I would recommend this hotel if you require a little piece and quiet after the busy day's in Venice, facility's good, staff very friendly and very helpful. I requested flowers for the room as it was one of my wife's special birthday's, and yes they ordered exactly as requested, can't ask for more. Rooms are a little on the small side but in line with most European hotels of this standard so wasn't a surprise or a problem, room and bathroom was cleaned every day with fresh towels supplied each day. Buffet breakfast had various options to suit most peoples taste but It was a surprise to see sausage, bacon and scrambled eggs available, must have been put on to satisfy us Brits! We stayed during late September so the Lido is probably quieter at that time however we felt very safe walking around late at night back to the hotel but taxis are available if you feel a little vulnerable. Restaurants and coffee bars are located in the main commercial area close to the Waterbus stations and tend to be slightly cheaper than in Venice. We had a water taxi (think luxury speed boat!) from the airport to the hotel and back again, quite an experience, a little costly but well worth it, a lot quicker and less hassle than the Waterbus. Venice was very busy during the day time, St Marks Square at night is a must, fantastic atmosphere. All in all we had a great time in Venice, it can be a little expensive so don't ponder over the bills to much, just pay up with a smile!",
+        "sentiment": "positive",
+        "score": 0.9262218475341797
+    },
+    "26": {
+        "review": "Mysigt med fina rum, bra frukost och nra bde till stranden och btterminalen.",
+        "sentiment": "neutral",
+        "score": 0.8578799962997437
+    },
+    "27": {
+        "review": "Hotel ist sehr gut , wir waren zum zweiten mal in diesem Hotel. Das Personal ist sehr freundlich. Einzig was zu bemengeln ist Fernsehen kann man nur zwei Programe, aber das ist im Urlaub nicht so wichtig.",
+        "sentiment": "neutral",
+        "score": 0.7688299417495728
+    },
+    "28": {
+        "review": "Wir hatten ein Zimmer mit Balkon und Blick auf die Lagune - wunderschn!!!",
+        "sentiment": "neutral",
+        "score": 0.5725781321525574
+    },
+    "29": {
+        "review": "Great stay...close to ferry.food not so good nearby",
+        "sentiment": "positive",
+        "score": 0.9048574566841125
+    },
+    "30": {
+        "review": "Stayed with parents, wife twin toddlers in two triple rooms. The hotel is easy to reach and the rooms were well placed well furnished. The best feature was extremely friendly helpful staff, particularly Ms. Annalucia Ms. Anna who were always ready to listen help out with big smiles. The breakfasts were very good, with good spread and the guests were made welcome to sit and eat at leisure (more important when you are with toddlers!) Would surely go back to Venice would happily stay again at Russo Palace.",
+        "sentiment": "positive",
+        "score": 0.9633783102035522
+    },
+    "31": {
+        "review": "Nous avons pass 4 jours dans cet htel situ 5 mn pieds des des vaporetto. Le personnel est trs sympa parle franais. Toujours l pour donner de bons conseils sur les restaurants ou les visites. Rien redire. Tout tait bien. Chambres petit djeuner et environnement.",
+        "sentiment": "neutral",
+        "score": 0.7826551795005798
+    },
+    "32": {
+        "review": "This hotel is in Lido which is a better choice than staying in crowded Venice. The water bus is very convenient and it takes only few more stops to the main attractions in Venice. We received excellent service - many thanks to Anna and Donnatella who made us feel at home.",
+        "sentiment": "positive",
+        "score": 0.9580551385879517
+    },
+    "33": {
+        "review": "It was a 10 min+ walk to water bus, would have liked it closer. Located on the water on Lido island, away from the rush of Venice",
+        "sentiment": "neutral",
+        "score": 0.6716678738594055
+    },
+    "34": {
+        "review": "Room was tiny-bed saggy-bAthroom door didn't work. Good breakfast and convenient location. Wouldn't return or recommend.",
+        "sentiment": "negative",
+        "score": 0.5539084076881409
+    },
+    "35": {
+        "review": "Htel trs bien situ dans un coin calme loin de l'agitation frntique du centre de Venise, mais seulement quelques minutes de bateau. Les chambres conomiques sous toit ne sont pas trs ergonomiques cause de la pente de toit et il fait vite chaud s'il y a du soleil lorsque l'air conditionn ne fonctionne pas encore, comme lors des congs de Pques. La vue extrieure se limite aux velux. La TV n'est pas un cran plat. On s'attend un peu plus de luxe dans un 4 toiles, mais les prix sont contenus. L'accueil est irrprochable et le petit djeuner est trs correct.",
+        "sentiment": "neutral",
+        "score": 0.8143807649612427
+    },
+    "36": {
+        "review": "VERY FRIENDLY AND HELPFUL WITH DIRECTIONS, KNOWING ALL THE RIGHT PLACES TO VISIT AND WHERE TO EAT TH BEST FOOD IN THE AREA. The Front Desk Receptionists were extremely helpful ..especially Sabrina who made us feel very welcomed to Lido....We will be back next year for sure!",
+        "sentiment": "positive",
+        "score": 0.9802350997924805
+    },
+    "37": {
+        "review": "No shower but jets in the bathtub and my room was slanted but made it work",
+        "sentiment": "neutral",
+        "score": 0.6533185243606567
+    },
+    "38": {
+        "review": "Hotel sympathique et silencieux sur l ile du Lido a quelques minutes en vaporetto de Venise. Personnels trs avenants et parlants plusieurs langues, dont le franais. Voyage dpaysant et inoubliable... aucune voiture l horyzon",
+        "sentiment": "neutral",
+        "score": 0.7274593710899353
+    },
+    "39": {
+        "review": "Havde 7 overnatninger i april 2015 p Hotel Russo Palace p Lidoen i Venedig. Personalet var alle ualmindeligt hjlpsomme, sde og imdekommende. Vi fik mange gode tips til restauranter og sevrdigheder. God og hjertelig stemning. Rolig beliggenhed. Morgenmaden var god med meget at vlge imellem.",
+        "sentiment": "neutral",
+        "score": 0.7953485250473022
+    },
+    "40": {
+        "review": ". .",
+        "sentiment": "neutral",
+        "score": 0.8132795691490173
+    },
+    "41": {
+        "review": "Really enjoyed the stay, about a 10min walk to the main waterbus station. Had the perfect quiet location and staff were really friendly!!",
+        "sentiment": "positive",
+        "score": 0.9865083694458008
+    },
+    "42": {
+        "review": "Nyrenovert bad hevet opplevelsen.",
+        "sentiment": "negative",
+        "score": 0.6741725206375122
+    },
+    "43": {
+        "review": "Prima uitval basis voor stedentrip. Rustige buurt",
+        "sentiment": "neutral",
+        "score": 0.7999825477600098
+    },
+    "44": {
+        "review": "Walls extremely thin, you can hear everything. Excessive hoovering every morning outside bedroom. There. Is a bar, but no one to tend it.",
+        "sentiment": "negative",
+        "score": 0.8104608058929443
+    },
+    "45": {
+        "review": "If you're looking for a hotel where the action is, go elsewhere. The hotel is on the Lido, which is about a 10-15 minute waterbus ride away from Venice. However, if you're looking for a place on the Lido, this is a well-priced option. The staff was great with handling/recommending dinner reservations, even during an insane Carnevale weekend. The doors are a little thin and since the building is old, the soundproofing needs improvement. The quarters are cramped, but the room comes with breakfast. If we wanted to stay on the Lido again, this would be a good option, but next time I think we'll opt for a place closer to the action. Recommended.",
+        "sentiment": "neutral",
+        "score": 0.5373645424842834
+    },
+    "46": {
+        "review": "Hotel facilities are good and breakfast ample. Econmy rooms have sloping roof so tall guests mind your head We stayed in one and it was fine, the occational bump but for the price you cant really complain.",
+        "sentiment": "positive",
+        "score": 0.8573082685470581
+    },
+    "47": {
+        "review": "Friendly reception very helpful. Hotel has pleasant views and is about ten minute walk to main water bus terminal to take you any direction. We used the spa one day. Good saunas but relaxation area noisy and small. Some lovely restaurants close by and cheaper than in Venice.",
+        "sentiment": "positive",
+        "score": 0.9588433504104614
+    },
+    "48": {
+        "review": "It was a bit far from city center",
+        "sentiment": "neutral",
+        "score": 0.8172357678413391
+    },
+    "49": {
+        "review": "Great hotel, staff where amazing and the location and views make this a great Base to visit Venice!",
+        "sentiment": "positive",
+        "score": 0.9861869812011719
+    },
+    "50": {
+        "review": ", , , . , , 1 ! , .",
+        "sentiment": "neutral",
+        "score": 0.6366629004478455
+    },
+    "51": {
+        "review": "Close to Venice and decent hotel, breakfast was okay with no too much selection but has everything you need.",
+        "sentiment": "positive",
+        "score": 0.9299934506416321
+    },
+    "52": {
+        "review": "beautiful views of Venice in the lovely relaxed calmer area of Lido Di Venezia. Gorgeous sunsets and very easy to access Venice, rather than satying in the hustle and bustle. Close to only beaches in Venice. Staff were so helpful, especially Ivan and the lady we met on the desk each morning.",
+        "sentiment": "positive",
+        "score": 0.979282796382904
+    },
+    "53": {
+        "review": "This is a great little hotel. We had a wonderful view from the room and patio. Good size. Breakfast was great even had North American breakfast foods. Only issue was the two twin beds pushed together. That was very uncomfortable.",
+        "sentiment": "positive",
+        "score": 0.9632323980331421
+    },
+    "54": {
+        "review": "Nice staff. Nice location. We booked two nights at Russo hotel on Lido strip and two nights in the very center of Venice. This is a good balance. Lido is a bit further but it feels more local and is more relaxing too, it gave us a taste of Dolce Vita. We didn't see it on the hotel description but they offered us a taxi boat ride to Murano with another couple for free. The boat ride was very pleasant, they dropped us in a glass blowing factory shop, the glass making demonstration was nice and there was very little pressure to buy. Internet was free for 20 minutes/day but a bit slow like everywhere in Venice. So in short a good pick, good value for money.",
+        "sentiment": "positive",
+        "score": 0.9581214189529419
+    },
+    "55": {
+        "review": "Wir waren das erste mal in Venedig und wrden jederzeit wieder dieses auf Lido gelegene Hotel buchen. Freundlicher Service, direkt am Kanal mit tollem Blick und entspanntes Parken.",
+        "sentiment": "neutral",
+        "score": 0.7651035785675049
+    },
+    "56": {
+        "review": "Nice and clean. Rooms are spacious with air conditioning. Good selection of breakfast. Within easy reach of San Marco. Quite location.",
+        "sentiment": "positive",
+        "score": 0.9643496870994568
+    },
+    "57": {
+        "review": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+        "sentiment": "neutral",
+        "score": 0.8893522620201111
+    },
+    "58": {
+        "review": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+        "sentiment": "neutral",
+        "score": 0.8893522620201111
+    },
+    "59": {
+        "review": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+        "sentiment": "neutral",
+        "score": 0.8893522620201111
+    },
+    "60": {
+        "review": "We had a wonderful, relaxing time. The staff were completely attentive and accommodating. We had a corner king room with a kitchen, two patios and a deluxe bathroom. You had to drive into town but they said that Uber is available if you need it. This was our first visit to Palm Springs and hopefully not our last! It really... More",
+        "sentiment": "positive",
+        "score": 0.9773486852645874
+    },
+    "61": {
+        "review": "We were in Palm Springs on the day the temperature was 123 degrees! Despite that, we had a wonderful stay because of the Little Paradise hotel. The staff were friendly and accommodating, and all of the little complimentary touches were so nice, like a bottle of wine for us in the fridge, sun care products near the pool, and a... More",
+        "sentiment": "positive",
+        "score": 0.9700237512588501
+    },
+    "62": {
+        "review": "We arrived in Palm Springs not sure what to expect....it's a quiet kinda place in 'low season'....we drove down what appeared to be a residential street...parked up at a wooden gate and weren't sure what to expect. What awaited took us back in amazement...the room is spacious with an air of decadence...the welcome wine and comprehensive breakfast was more than... More",
+        "sentiment": "neutral",
+        "score": 0.6601017713546753
+    },
+    "63": {
+        "review": "This place really is a little paradise!! A beautiful boutique style hotel with EVERYTHING meticulously thought out to make our vacation perfect. Saltwater pool, fresh fruit, BEST showerhead I've ever experienced, I can go on and on. The bed was so comfortable and we slept like babies. Victor did a wonderful job and Judy was just lovely and personable!",
+        "sentiment": "positive",
+        "score": 0.9846276640892029
+    },
+    "64": {
+        "review": "Spent 3 nights at Little Paradise boutique hotel on a mother-daughter trip. Wonderful and relaxing experience. Clean and newly redone rooms that are well equipped and spacious. Perfect location off the main street in a quiet neighborhood that is close to downtown Palm Springs. The pool area has a nice gas fire pit area and lots of comfy chaise lounges... More",
+        "sentiment": "positive",
+        "score": 0.9806342124938965
+    },
+    "65": {
+        "review": "This little hotel surpassed all my expectations. The rooms are well equiped with a little kitchenette, fridge was filled with croissants, 3 bottles of water, soda and much more. The room was very clean and the bathroom was equiped with a top notch shower. I would definately recommend this place to anyone visiting or passing trough Palm Springs. The reception... More",
+        "sentiment": "positive",
+        "score": 0.9791716933250427
+    },
+    "66": {
+        "review": "If you want peaceful and relaxing look no further. Although set up like a single floor motel it is hardly anything but. The rooms are very nice with a full kitchen. They provide some breakfast items, snacks and bottles of spring water. You can bring in anything you like to enjoy at the pool or in your room. By the... More",
+        "sentiment": "positive",
+        "score": 0.8383880257606506
+    },
+    "67": {
+        "review": "All the reviews are great and agree on this fine little place. I'd also like to add the wonderful service you will find here with Victor and staff who seem to want to do anything and everything to make you happy. The king beds here are just amazing. We seldom run into beds this comfy. The room has a large... More",
+        "sentiment": "positive",
+        "score": 0.9825326204299927
+    },
+    "68": {
+        "review": "We went for a relaxing weekend as an offshoot of a family visit. This was a great place to go with a nice room and a view of the mountains from just outside. The ONLY thing we didn't like was that the sun dropped below the mountains too early and the temperature dropped along with it. Maybe you can fix... More",
+        "sentiment": "positive",
+        "score": 0.908126711845398
+    },
+    "69": {
+        "review": "We were on a business trip to Anaheim and, afterwards, drove to Palm Springs for a relaxing weekend. It turned out that this hotel was the perfect place! We arrived late and were pleasantly surprised upon checking in to see that, not only were the accommodations incredibly thoughtful and comfortable, but the refrigerator came stocked with croissants, bagels, cream cheese,... More",
+        "sentiment": "positive",
+        "score": 0.9797880053520203
+    },
+    "70": {
+        "review": "Victor and Judy were truly accommodating hosts, especially when we had to cut our stay short due to illness. Everything that has been written by other reviewers was spot on. It is more like a small inn or bed breakfast (with the breakfast left in the fridge in your room) than a hotel. There are eight guest rooms around... More",
+        "sentiment": "positive",
+        "score": 0.7629690170288086
+    },
+    "71": {
+        "review": "If you want to relax, want a quiet atmosphere, cozy setting.. this is the place. It is definitely a smaller, boutique-type hotel and it feels that way. So that's good for some and maybe not as much for others. The room is great, very pretty. Very impressive large, new Curved HD TV. So that's nice! The small kitchen is also... More",
+        "sentiment": "positive",
+        "score": 0.9507008790969849
+    },
+    "72": {
+        "review": "Stayed 5 nights and it was delightful. Lovely comfortable,well lit, great shower and bathroom,kitchen with microwave,fridge etc and very functional room. Ten hotels on this trip but this one seems to have thought of everything. Peaceful yet near the main streets with lovely shopping, art and some great restaurants. Good local transport but downtown is walkable but a bit over... More",
+        "sentiment": "positive",
+        "score": 0.9707310199737549
+    },
+    "73": {
+        "review": "New everything would be great from the moment we came through the gate. Nine excellent, high quality rooms each with a small kitchen/diner and terrific shower room including twin wash basins. Each room faces onto the pool with plenty of sun loungers, towels, shaded areas and comfortable seating. Rooms furnished to extremely high standard and beds have the finest linen... More",
+        "sentiment": "positive",
+        "score": 0.9584503769874573
+    },
+    "74": {
+        "review": "Spend four days there and would have prolonged our stay if they only had a room available. Welcoming host, all rooms around the patio / pool. This place breathes tranquility and relaxation. Since you normally travel by car in this country anyways, everything is close by.",
+        "sentiment": "positive",
+        "score": 0.9563196897506714
+    },
+    "75": {
+        "review": "I'm going to keep this fairly short but what I will say is if you are going to stay in Palm Springs please stay here. It's not right on the main drag but it's in a lovely residential area, no noise, ample parking and just so peaceful. Only 5 in an Uber to the main strip with the bars and... More",
+        "sentiment": "positive",
+        "score": 0.8197509050369263
+    },
+    "76": {
+        "review": "We had unit 4 on the east side of the complex for 3 nights - very quiet, very comfortable bed, nice amenities in room - killer shower!! pool was large, heated, wonderful - Judy hope I got that right made us fresh orange and banana smoothies when we were in the pool - breakfast in fridge was just ok, little... More",
+        "sentiment": "positive",
+        "score": 0.9718877673149109
+    },
+    "77": {
+        "review": "Stayed 3 nights in this beautiful hotel. This place is very clean, rooms have all been recently upgraded. Big comfortable bed, nice kitchen with granite countertops, fridge, Keurig coffee maker, and even a two burner stove. Bathrooms are big with granite countertops, two sinks, and a huge shower. Pool area is gorgeous and the owner and staff make you feel... More",
+        "sentiment": "positive",
+        "score": 0.9798533916473389
+    },
+    "78": {
+        "review": "This place is just perfect for everyone looking for some rest in lovely and warm Palm Springs. The host welcomed us very very friendly, explaining us what we could find where. The private kitchen had our breakfast and a complimentary bottle of wine. The room (call it the appartment) had everything and was very well decorated and had an outside... More",
+        "sentiment": "positive",
+        "score": 0.9827145934104919
+    },
+    "79": {
+        "review": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+        "sentiment": "neutral",
+        "score": 0.8893522620201111
+    },
+    "80": {
+        "review": "Little Paradise is called a hotel, but it is more of a motel tucked away in a nice neighborhood district with similar styled single story boutique motels/hotels. This is not your large chain full service hotel but a nice hideaway with just a few rooms surrounding a warm salt water swimming pool. There is no on-site restaurant but you get... More",
+        "sentiment": "neutral",
+        "score": 0.7314350605010986
+    },
+    "81": {
+        "review": "If you are being treated at any Texas Medical Center facility this is a good place to stay. Very clean, decent breakfast, and shuttle. The only negative is that the shuttle doesn't run in the middle of the day making it inconvenient to return to the hotel following an appointment. We have had to take a taxi a few times.... More",
+        "sentiment": "positive",
+        "score": 0.6671982407569885
+    },
+    "82": {
+        "review": "Pathetic and discriminatory. They have a free shuttle service, but it is not accessible to wheelchair users, and they don't care. The front desk did not do anything about the issue. I emailed the corporate customer care email address and they take unreasonable amounts of time to respond to emails and do not remedy the problem. The customer care email... More",
+        "sentiment": "negative",
+        "score": 0.9313177466392517
+    },
+    "83": {
+        "review": "This Comfort Suites was a terrific hotel. The staff was friendly and the room was clean and a good size. There was great food for breakfast and a large variety. It was very convenient for our trip. We went to an Astros game and the drive was about 18 minutes. We went to the Johnson Space Center the next day... More",
+        "sentiment": "positive",
+        "score": 0.9776039123535156
+    },
+    "84": {
+        "review": "Great location walking distance to NRG Stadium. Next door to Pappa BBQ (warning- good, but very smoky flavor). Hotel was nicely decorated, gave a warm welcome. Front desk staff was friendly, though distracted. Our room, while quite large (we had an accessible room), had two ACs that did not de-humidify the room. It felt damp/humid the whole stay. Though... More",
+        "sentiment": "positive",
+        "score": 0.9468284249305725
+    },
+    "85": {
+        "review": "The room was clean, the hotel workers were very good and the breakfast was also good. But the kennel with the dogs was awful. These dogs starting barking at six in the morning. The television in my room was a twenty inch LG. I will never go back there again.",
+        "sentiment": "negative",
+        "score": 0.6232828497886658
+    },
+    "86": {
+        "review": "Only .3 (three tenths!) of a mile away from the Kirby St. gate of NRG Stadium. It can even be considered walking distance, and you avoid the price of parking! How nice it is to be so nearby after attending an exciting event at NRG Stadium.....saving the possibly long drive home, or to the airport, for the next day.",
+        "sentiment": "positive",
+        "score": 0.9597334861755371
+    },
+    "87": {
+        "review": "On our two trips prior to this one both the breakfast and the internet were below par. I am glad to report that on our most recent trip the internet worked great and the breakfast was much improved. When you go to Texas for cancer treatment, the little things become big things. You can stay here with confidence.",
+        "sentiment": "positive",
+        "score": 0.9441518783569336
+    },
+    "88": {
+        "review": "Stayed here for two nights to visit MDA. The rooms are clean. The bed is comfortable. The internet worked great. The staff was nice. Close to many restaurants. I highly recommend. We stayed at Best Western the last visit and had a total different (bad) experience.",
+        "sentiment": "positive",
+        "score": 0.9326300621032715
+    },
+    "89": {
+        "review": "I was a bit concerned after checking the rating of this hotel, but was so pleasantly surprised when I got there. I was basically there for a medical visit and it seemed like so were a lot of other people, but we would totally stay there if we were just visiting Houston. My mom checked in for me since I... More",
+        "sentiment": "positive",
+        "score": 0.7127701640129089
+    },
+    "90": {
+        "review": "We stay here each time my husband has a medical appt in Houston and they do offer medical rates if you ask. It is near medical center off of Main St. Very quiet and very clean large rooms. Several eating places within walking distance. Offers medical center shuttle also. The pool is very small, but we don't use that anyways... More",
+        "sentiment": "positive",
+        "score": 0.5630874633789062
+    },
+    "91": {
+        "review": "Visited the comfort suites in new iberia louisiana and my daughters head was almost decapitated in the elivator. When i talked to the front desk to make a complaint and get the front desk to give me the corporate information she gave me a cell phone number instead of the corporate office . We called numerous times before an answer... More",
+        "sentiment": "negative",
+        "score": 0.8166205286979675
+    },
+    "92": {
+        "review": "I have been staying here, off and on, four about 7 years. The first time was when my father was going thru treatment at MD Anderson. The staff were great, made accommodations for him and also for his caregivers. They were also very understanding for those going thru treatments also local hospitals. I have also stayed there during my pre... More",
+        "sentiment": "positive",
+        "score": 0.8078609704971313
+    },
+    "93": {
+        "review": "Very nice, like new lobby and rooms. Lobby and halls have tile floors that look great. Fancy, large chandelier in lobby. Hotel is 13 years old but looked like it was remodeled recently. Near Rice University. Had a security guard on duty. Fridge in our room was noisy. Dual phone charger ports by bed and on desk. Lots of digital... More",
+        "sentiment": "positive",
+        "score": 0.9599923491477966
+    },
+    "94": {
+        "review": "The hotel was great, staff was great only bad thing was the breakfast as I am a choice hotel guy and most of the comfort suites have a great breakfast this one kinda lacked. But Staff and rest of the hotel was great",
+        "sentiment": "positive",
+        "score": 0.9048181772232056
+    },
+    "95": {
+        "review": "We stayed here because of a family medical emergency.Did not have any options for a room. We had the SMALL queen room--think it may have been laundry area previously. Bed fair. Room quite. Was OK for one night. This hotel is near the stadium. Price was ok .99 plus tax.",
+        "sentiment": "neutral",
+        "score": 0.7039879560470581
+    },
+    "96": {
+        "review": "This is the old address for Thunderbird. The new one is:Thunderbird School of Global Management1 Global PlaceGlendale, AZ 85306-6000 USASee their website:http://www.thunderbird.edu/about_thunderbird/contact_us.htm",
+        "sentiment": "neutral",
+        "score": 0.9466831088066101
+    },
+    "97": {
+        "review": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+        "sentiment": "neutral",
+        "score": 0.8893522620201111
+    },
+    "98": {
+        "review": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "sentiment": "neutral",
+        "score": 0.5003081560134888
+    },
+    "99": {
+        "review": "The room was fine and the mattress was very comfortable. Unfortunately, I arrived while the front entrance was under-construction. There was not sufficient signage to find out how to enter the building. I would have left, had I not already had a reservation through Hotels.com.",
+        "sentiment": "neutral",
+        "score": 0.509273111820221
+    },
+    "100": {
+        "review": "Reprehensible three days without maid service despite telling the management after it had happened the first time. I would not recommend this hotel for this reason.",
+        "sentiment": "negative",
+        "score": 0.939529299736023
+    },
+    "101": {
+        "review": "The pictures on the web site were more expensive looking then the reality. We were told we had one of the best rooms, besides staring at cargo containers, the TV would not work so they changed our room. It was not well furnished and we could not regulate the air conditioner (way too warm for sleeping). The continental breakfast was good and the staff was very nice and helpful. The linens were harsh and uncomfortable. Sorry, but this was not at all what I expected and it was certainly unacceptable.",
+        "sentiment": "negative",
+        "score": 0.8375988602638245
+    },
+    "102": {
+        "review": "The didn't tell me they were gonna run my credit card for accidental for a 100 charge. They just told me they had to double check my ID and the credit card that was used.",
+        "sentiment": "negative",
+        "score": 0.5081159472465515
+    },
+    "103": {
+        "review": "I stayed here with some girlfriends for a wine tasting getaway. The staff pointed out some great wineries and restaurants and were very friendly.",
+        "sentiment": "positive",
+        "score": 0.9767847657203674
+    },
+    "104": {
+        "review": "Beautiful hotel. Very clean and service was great. This is a must stay and if I'm in need of a hotel in the Livermore area, this is the place to stay.",
+        "sentiment": "positive",
+        "score": 0.9833272099494934
+    },
+    "105": {
+        "review": "The room was big and the hotel staff were nice, but I couldn't get over the smelly linens. When I lay down on the bed, all I could smell was dirty old sweat socks! I don't think they ever used detergent or fabric softener to wash the linens!They were that horrible! I had to spray the linens with perfume so I wouldn't smell them 'au naturel' while I'm sleeping! I'm never going to stay in this hotel ever again!",
+        "sentiment": "negative",
+        "score": 0.8972827196121216
+    },
+    "106": {
+        "review": "Nice place no complaints, one thing they didn't tell me,is they put a 100 hold on your card that stays for a couple days after you check out. I know this is not rare but any place that does has told me. I ended up calling trying to get it refunded. The breakfast in morning was pretty good, they had a full buffet not just some pakage pastries. Leave your swimsuit at home though the pool is small very small.",
+        "sentiment": "neutral",
+        "score": 0.40915679931640625
+    },
+    "107": {
+        "review": "Great stay for our night downtown Livermore at Bankhead Theater concert. Birthday celebration for friend. The most comfortable bed ever! Nice patio where we spent our morning catching up. Hotel under construction did not bother us.",
+        "sentiment": "positive",
+        "score": 0.9877532124519348
+    },
+    "108": {
+        "review": "Perfect for my family to relax for the Easter weekend and for my girlfriend's Livermore 1/2 marathon!",
+        "sentiment": "positive",
+        "score": 0.9822409749031067
+    },
+    "109": {
+        "review": "The hotel was great. There was little construction going on which altered where they served breakfast, but it didn't bother us any.",
+        "sentiment": "positive",
+        "score": 0.8573520183563232
+    },
+    "110": {
+        "review": "Having never been to Livermore, imagine my shock when the 2nd floor balcony room overlooked a parking lot and a gas station with a Jack in the Box thrown in for good measure. I thought I was staying in wine country. It would also have been nice to know that it is under construction. Granted I should have done more research but it was a last minute decision to go. The only good thing I could say is the bed was comfortable. If you are looking for a hotel right off of a freeway this one fits the bill, although way overpriced.",
+        "sentiment": "neutral",
+        "score": 0.4601474702358246
+    },
+    "111": {
+        "review": "The bathroom sink splashes water, need to be fixed. The bathtub/shower make loud noises. Other than that, it was a good stay.",
+        "sentiment": "negative",
+        "score": 0.8514875769615173
+    },
+    "112": {
+        "review": "Great",
+        "sentiment": "positive",
+        "score": 0.7565582990646362
+    },
+    "113": {
+        "review": "Nice in/out along the freeway. I thought it was a little high for what it was.",
+        "sentiment": "positive",
+        "score": 0.84299635887146
+    },
+    "114": {
+        "review": "Beds and pillows were nice. And the television was good as well. The pool was closed.",
+        "sentiment": "positive",
+        "score": 0.9450082778930664
+    },
+    "115": {
+        "review": "My husband and I thoroughly enjoyed our stay here. The staff were friendly, helpful and efficient. The breakfast in the morning was delicious with a good selection of food and beverages. We will definitely stay here again and refer friends and family too.",
+        "sentiment": "positive",
+        "score": 0.9877628087997437
+    },
+    "116": {
+        "review": "Close to freeway on/off ramp. enjoyed the stay",
+        "sentiment": "positive",
+        "score": 0.9265410304069519
+    },
+    "117": {
+        "review": "This hotel was promoted as being in the wine country. However, it was a block from the freeway. When we asked the desk clerk about this, she pointed her finger toward the door and said, It's about 4 miles that way. We had a great view of Jack in the Box parking lot. When we first entered our room and kicked off our shoes, we found ourselves stepping on numerous sand burrs left on the carpet. After working out and returning to our room at 9am, there was no hot water for the shower. The breakfast was adequate and the housekeeping staff were friendly.",
+        "sentiment": "positive",
+        "score": 0.5800206065177917
+    },
+    "118": {
+        "review": "Came for concert at Wente. Last time I traveled to area the accomodations had a shuttle service. That would be a nice amenity if you could add it. Great clean place to stay.",
+        "sentiment": "positive",
+        "score": 0.9445163607597351
+    },
+    "119": {
+        "review": "Only problem we had was that we were not informed of the teen basketball tournament going on in the city. As a result, lots of kids, the room next to ours had the TV blaring until midnight and then on again a 5 am. We went to the lobby for our full breakfast at 10:15 and there was nothing left. We pickup a beagle and coffee and went to our room. They should have planned ahead for all the teens to eat all the food. There was 45 minutes left for breakfast time but nothing to eat. Outside of that, our stay was very nice. The gentleman at the front desk was especially cordial and accommodating.",
+        "sentiment": "negative",
+        "score": 0.5537941455841064
+    },
+    "120": {
+        "review": "It was cold in the room. We couldn't get the heater on easily for some reason but then when the heat temperature finally came on we were sweating in the middle of the night. I would like a better thermostat or better direction. The hot breakfast was great!!!",
+        "sentiment": "negative",
+        "score": 0.7117533087730408
+    },
+    "121": {
+        "review": "All the rooms have been recently renovated. They are in the process of renovating the lobby area. The room was new and clean. The beds were very comfortable. The bed linen looks new too. Its also nice to have electrical sockets at desk level and plenty of them. The breakfast was so so... eggs, sausages and hashbrown (no fruits) but barely edible.",
+        "sentiment": "positive",
+        "score": 0.9589346647262573
+    },
+    "122": {
+        "review": "Let's face it, this is NOT in the Livermore 'wine country'....you can throw a rock from your room to busy InterState 580 and never come close to a vine or vineyard!",
+        "sentiment": "negative",
+        "score": 0.6378267407417297
+    },
+    "123": {
+        "review": "It was OK . they paid for the ice I purached.",
+        "sentiment": "positive",
+        "score": 0.6896039247512817
+    },
+    "124": {
+        "review": "I must say the GM at this hotel Catherine is the bomb! She was very attentive and helpful. The hotel was very clean and the staff were all very nice to us from the moment we walked in the door. I would stay here every time I'm in California. Thanks again Cat!",
+        "sentiment": "positive",
+        "score": 0.9827321171760559
+    },
+    "125": {
+        "review": "The hotel was great, but the Buffet Breakfast was the worst I have ever had! The bacon taste like cardboard, eggs and sausage were cold, Pastries were hard and very little fruit. The only thing hot and worth eating was fixing yourself a waffle at the waffle machine if you didn't mind waiting in line for it.",
+        "sentiment": "negative",
+        "score": 0.8901099562644958
+    },
+    "126": {
+        "review": "The Hawthorne Suites offers an affordable, comfortable environment that is convenient to the 580 freeway (just south of it) and within a mile and a half of downtown Livermore. Room was incredibly clean and comfortable. While they are currently going through a renovation, which I think will be really nice once it is completed, we rarely had any indication of the ongoing construction activities. Staff was very friendly and accommodating.",
+        "sentiment": "positive",
+        "score": 0.9330964684486389
+    },
+    "127": {
+        "review": "My family stated the place was nice as they were here for my wedding. Location was great and only 10 minutes away from destinations.",
+        "sentiment": "positive",
+        "score": 0.9663719534873962
+    },
+    "128": {
+        "review": "Very comfortable rooms, will stay again when in the area.",
+        "sentiment": "positive",
+        "score": 0.9705187678337097
+    },
+    "129": {
+        "review": "Staff was great and rooms were clean and very comfortable.",
+        "sentiment": "positive",
+        "score": 0.9777768850326538
+    },
+    "130": {
+        "review": "Stayed at this hotel as part of a nearby wedding. I have to say I was impressed. Was greeted by Catherine at the front desk. I had spoke with her earlier before arriving and she was great on the phone and she was so sweet at check in. Very friendly, accommodating, and engaging. Really started the stay off right. The... More",
+        "sentiment": "positive",
+        "score": 0.9770333170890808
+    },
+    "131": {
+        "review": "What a pleasant surprise! We are use to staying at expensive four star hotels but needed to complete a quick business trip and we were so delighted with this hotel. All newly remodeled, pleasant professional staff, and the hot breakfast was a perfect addition. Highly recommend and you will not be disappointed!",
+        "sentiment": "positive",
+        "score": 0.982557475566864
+    },
+    "132": {
+        "review": "The hotel is absolutely beautiful. We were very impressed by the dcor everything was clean and felt very upscale. The hotel is located near the freeway. There is a gas station, fast food, and shopping nearby. We were in town for a family event so we didn't do much exploring, but there seemed to be many amenities right in the area. The best part was the proximity to downtown Livermore. Wonderful shopping and dining opportunities, and only 5 minutes away. Also, the wineries are within a 10 minute drive. All in all, a wonderful place to stay and lots to do in the area.",
+        "sentiment": "positive",
+        "score": 0.9812095761299133
+    },
+    "133": {
+        "review": "The most convenient place to stay in Livermor and where we will stay in the future.",
+        "sentiment": "positive",
+        "score": 0.6552569270133972
+    },
+    "134": {
+        "review": "Very nice for the price.",
+        "sentiment": "positive",
+        "score": 0.9700512886047363
+    },
+    "135": {
+        "review": "The room was clean, spacious, and the bed was extremely comfortable. We were in Livermore for a two-day stay, and it was a nice quiet retreat in the midst of family chaos.",
+        "sentiment": "positive",
+        "score": 0.9581832885742188
+    },
+    "136": {
+        "review": "All was great, until the heater/AC came on. It sounded like a vacuum cleaner every time it turned on. Waking me up over and over. The room would get to hot then to cold. Had a horrible night sleep. Vroom -- Vroom. Clean, friendly, comfy bed, all ruined by a Motel-6 quality wall unit.",
+        "sentiment": "negative",
+        "score": 0.9161272644996643
+    },
+    "137": {
+        "review": "There's nothing wrong with the hotel except that there are flood lights shining in your window while you sleep and the curtains don't close. I really like the furniture The bedding was clean the pillows are great. Next time I will ask for a room with windows on the other side.",
+        "sentiment": "positive",
+        "score": 0.8276282548904419
+    },
+    "138": {
+        "review": "The hotel itself was very nice. Staff was very helpful, especially with accommodating us when we asked to check in early. The problem was with cleanliness. Our room was not clean enough - I found a floss stick on the table in our room. What looked like a condom was found when we went to use the spa. And the pool was full of leaves and dirt on the bottom. Otherwise, our room would have been great. Very large with everything you need for a comfortable stay. Nice large screen tv as well - made my husband happy.",
+        "sentiment": "positive",
+        "score": 0.6206773519515991
+    },
+    "139": {
+        "review": "Mediocre. The carpets and elevator reek of sour wine. Evidently they have regular wine Thursdays here. Service was somewhat lacking. I requested a wakeup call, they didn't do it. Finally, the free breakfast was on the poor side. Daddy, this bacon tastes like tuna.",
+        "sentiment": "negative",
+        "score": 0.9359335899353027
+    },
+    "140": {
+        "review": "Nice experience, despite the re-modeling construction. Friendly and courteous hotel staff. Beautiful new room decor and ambience.",
+        "sentiment": "positive",
+        "score": 0.9823287129402161
+    },
+    "141": {
+        "review": "One night only, but a nice one. New renno's high quality throughout. Comfy, modern accomodation. Our room overlooked grazing cattle and the relentless I-580, so it was busy, but totally silent. We'll be back.",
+        "sentiment": "positive",
+        "score": 0.9397836923599243
+    },
+    "142": {
+        "review": "Guy at front desk was a jerk, smart Alec",
+        "sentiment": "negative",
+        "score": 0.8704780340194702
+    },
+    "143": {
+        "review": "When I made reservations at this hotel, I had average expectations at that that price rate for that area. However the newly renovated room, the professional staff and the cleanliness and the comfort of really surprised me and I will definitely go back.",
+        "sentiment": "positive",
+        "score": 0.9433495998382568
+    },
+    "144": {
+        "review": "We stayed for two nights. The lobby was nice and the breakfast was good. However, the room was not properly cleaned upon arrival and the same issues remained on the second day. Would have expected much better at this price.",
+        "sentiment": "negative",
+        "score": 0.6615056991577148
+    },
+    "145": {
+        "review": "I have stayed here twice now and loved it both times. Staff are very courteous and welcoming. The pool can use an upgrade but we still had a great time lounging next to the pool.",
+        "sentiment": "positive",
+        "score": 0.9843394756317139
+    },
+    "146": {
+        "review": "Clean, safe, friendly, brand new, hotel- :)",
+        "sentiment": "positive",
+        "score": 0.9685336947441101
+    },
+    "147": {
+        "review": "The last time I stayed at this hotel, it was under remodeling and one of the rooms I was placed in had a heating unit that did not work. I moved to another room, which was okay, but not as nice a room. This time, my granddaughter and I checked in at about 4:30 p.m. and the room was extremely... More",
+        "sentiment": "negative",
+        "score": 0.8073073029518127
+    },
+    "148": {
+        "review": "Visiting family",
+        "sentiment": "neutral",
+        "score": 0.6329424977302551
+    },
+    "149": {
+        "review": "Perfect, best hotel over others in the area",
+        "sentiment": "positive",
+        "score": 0.9805381894111633
+    },
+    "150": {
+        "review": "The hotel is under renovation so lobby and other areas were blocked off. Room was very nice but breakfast were less than tasty.",
+        "sentiment": "negative",
+        "score": 0.8296666145324707
+    },
+    "151": {
+        "review": "Staff was very nice. Hotel is updating it's lobby and reception area so there was a bit of construction. Did not hamper anything. Breakfast was fine, room was nice and quite spacious and again hotel employees were very nice.",
+        "sentiment": "positive",
+        "score": 0.8770459890365601
+    },
+    "152": {
+        "review": "Great hotel in a great neighborhood. Will definitely be staying here again. Room was very spacious. Free breakfast was great! It was raining so we didn't get to use the pool but it seemed very nice. A little pricey but its a very nice hotel! Free wi-fi and free parking - additional pluses!",
+        "sentiment": "positive",
+        "score": 0.9841626882553101
+    },
+    "153": {
+        "review": "Very comfortable and accommodating. From making our reservation to our time spent, the Hawthorn in Livermore was really nice. I did have to find the direct phone number to get assurance our needs would be met as the central hotel reservation system is simply not equipped to handle any details. Once accessed the staff was most gracious and reassuring and... More",
+        "sentiment": "positive",
+        "score": 0.9201840758323669
+    },
+    "154": {
+        "review": "I work in Livermore and stayed the night to celebrate with friends. The location is close to downtown and the local wineries. My boyfriend and I were very pleased with the accommodations, the room was clean and large. The front desk was very friendly and helpful. I will stay here again.",
+        "sentiment": "positive",
+        "score": 0.9776533842086792
+    },
+    "155": {
+        "review": "A nice hotel, it was undergoing renovation when I stayed so shou be finished soon. Staff was helpful and friendly. Only complaint is the breakfast.",
+        "sentiment": "positive",
+        "score": 0.9356063008308411
+    },
+    "156": {
+        "review": "I live somewhat local in Redwood City, but it's far enough away that after spending the evening with High School Friends, having a 30th gathering wasn't an official reunion, at a local beer pub, we didn't want to chance driving home after having a few beers. We made the reservation Friday night, and honestly, was apprehensive because of some of the reviews. Pleasantly surprised! The place was clean, it's had a facelift and looks good. The bathroom tub could use an update...but I have stayed in the W in downtown Chicago and the tub was worse and room was horrible. I'd take this room over that one any day! The breakfast the next morning was good. Nothing to write home about, but it offers a great selection and the eggs weren't watered down. Sausage was good...bacon...well, that looked and smelled like a dog treat. Passed on that one. But the coffee was decent and overall, was very pleased with our last minute choice to stay there...would do it again and would recommend others! It was 1/2 mile from the pub and right at the freeway, so leaving was easy, too.",
+        "sentiment": "neutral",
+        "score": 0.4485771358013153
+    },
+    "157": {
+        "review": "Excellent Staff",
+        "sentiment": "positive",
+        "score": 0.9138005971908569
+    },
+    "158": {
+        "review": "We booked this hotel because we had a wedding. It was impeccable, comfortable, and they had an excellent breakfast.",
+        "sentiment": "positive",
+        "score": 0.9805884957313538
+    },
+    "159": {
+        "review": "I was at the hotel for a wedding and all of the staff, Catherine in particular, were incredibly helpful and accommodating. I also loved that there were different types of pillows on the beds!",
+        "sentiment": "positive",
+        "score": 0.9854031801223755
+    },
+    "160": {
+        "review": "Stayed here for a wedding weekend. Easily accessible from the freeway, 5min drive to downtown Livermore, good weekend stay for wine tasting or weddings, not much of a view in any direction. Rooms were clean with modern decor. Parking was free. Free continental breakfast. They were remodeling the dining area during our stay but it didn't bother us too much.... More",
+        "sentiment": "positive",
+        "score": 0.8363915085792542
+    },
+    "161": {
+        "review": "Very nice hotel and staff, the location was also perfect because it was easy to get to due being close freeway exit.",
+        "sentiment": "positive",
+        "score": 0.979486882686615
+    },
+    "162": {
+        "review": "Our family reserved 6 rooms for 2-4 days for a family event. 3 of the 6 rooms had some significant disappointments, including blood and feces on the sheets, and roaches in the room. Our daughter turned her refrigerator on upon check in and then stocked it with food. Housekeeping turned it off and the food spoiled. Gentleman at the front... More",
+        "sentiment": "negative",
+        "score": 0.746536910533905
+    },
+    "163": {
+        "review": "Everything was good. The front desk staff was fine, but I thought they could've been a more friendly and welcoming.",
+        "sentiment": "positive",
+        "score": 0.932399570941925
+    },
+    "164": {
+        "review": "Sheets were filthy, jacuzzi was freezing with bugs in it, the breakfast had options but the eggs and bacon tasted terrible!",
+        "sentiment": "negative",
+        "score": 0.9495012164115906
+    },
+    "165": {
+        "review": "Wanted to check out their wine tasting, the wine trolly was fun and affordable, the wine was great, the food downtown was good, nice atmosphere. Our Hotel was conveniently located very close to everything we wanted to do. Got some great deals at the outlets, which were close by, as well. Great weekend stay.",
+        "sentiment": "positive",
+        "score": 0.9825749397277832
+    },
+    "166": {
+        "review": "The pillows were way too soft without pillowcases. The mattress was so soft my back was aching. When i awoke in the am since I arrived so late and did not notice I flipped the covers off and there was dried blood on the sheets. I could not leave fast enough. Sorry but never again. The next night I stayed... More",
+        "sentiment": "negative",
+        "score": 0.7637489438056946
+    },
+    "167": {
+        "review": "Clean, comfortable room. Breakfast was good. Coffee not bad. The bacon was weird. Soy maybe Kinda gross. Many people threw it away. Everything else was fine. Not over the top amazing, but I think I got my money's worth.",
+        "sentiment": "positive",
+        "score": 0.6499379873275757
+    },
+    "168": {
+        "review": "Super solid, well-maintained but nothing to write home about. Breakfast buffet, while complimentary was pretty lackluster, but a nice feature nonetheless.",
+        "sentiment": "positive",
+        "score": 0.8762854337692261
+    },
+    "169": {
+        "review": "I frequently go to Livermore for business travel and always stay at this hotel. The hotel is always clean, beds are super comfy, staff is friendly, free breakfast in the morning and wine in the evening. What else could you ask for when you are traveling",
+        "sentiment": "positive",
+        "score": 0.9781121015548706
+    },
+    "170": {
+        "review": "Stayed for a week - from early check-in assistance to excellent accommodations, it was all I could hope for in a multi-day business stay.",
+        "sentiment": "positive",
+        "score": 0.9401711821556091
+    },
+    "171": {
+        "review": "one night stay to attend concert/dinner at winery",
+        "sentiment": "neutral",
+        "score": 0.8948507905006409
+    },
+    "172": {
+        "review": "This hotel has a great, friendly staff, clean rooms, comfy beds and pillows and the price is right. Would stay there again when I am in town.",
+        "sentiment": "positive",
+        "score": 0.977656900882721
+    },
+    "173": {
+        "review": "I expected more from a Wyndham hotel......bathroom was very small, not enough counter space for makeup bag and shaving kit. Amenities were not replenished. Had to ask for coffee replacements, then were given single serve bags for a 4 cup coffee maker! Coffee maker eventually replaced, but I had to ask... twice! And the word suite. Is not too accurate.... More",
+        "sentiment": "negative",
+        "score": 0.8623543381690979
+    },
+    "174": {
+        "review": "My husband and I came out here from Tennessee for a business conference / couples getaway. It's our first full day here and I'm already so impressed with this hotel! The hotel and the room are both clean and pretty . The staff is super friendly and the front desk girl even printed out a map of things I might... More",
+        "sentiment": "positive",
+        "score": 0.9832183718681335
+    },
+    "175": {
+        "review": "We have always chosen this hotel for location and comfort, as well as value. Now with updated decor we love it even more. There was even a chaise lounge with a computer table, as well as lots of outlets for our electronics. Front staff is always helpful and polite.",
+        "sentiment": "positive",
+        "score": 0.9828474521636963
+    },
+    "176": {
+        "review": "excellent service and location for wedding party. staff worked hard at accommodating numerous guests.",
+        "sentiment": "positive",
+        "score": 0.9808608293533325
+    },
+    "177": {
+        "review": "The hotel was fine, I with the shower (specifically the shower head) was cleaner, it could you a thorough scrubbing and white vinegar cleaning.",
+        "sentiment": "positive",
+        "score": 0.7740936875343323
+    },
+    "178": {
+        "review": "We found this hotel because of its connection to the Livermore Shakespeare Festival. They offered a dinner-theater-hotel package that was perfect for our first time at this venue. The hotel is conveniently located close enough to the freeway to be easily accessible but far enough away to be out of the traffic noise. The Hawthorn staff were very pleasant and... More",
+        "sentiment": "positive",
+        "score": 0.9569209218025208
+    },
+    "179": {
+        "review": "Fun overnight stay",
+        "sentiment": "positive",
+        "score": 0.9141288995742798
+    },
+    "180": {
+        "review": "My boyfriend and I stayed here for two nights for a wedding in Livermore in July. I wouldn't recommend this hotel to my worst enemy. There is absolutely no excuse for stealing my friend's personal belongings whom were also staying at this hotel the same nights. I left my cell phone charger in room 305 and came back a few... More",
+        "sentiment": "negative",
+        "score": 0.850404679775238
+    },
+    "181": {
+        "review": "My husband and I stayed at the Hawthorne Suites by Wyndham Livermore,CA. for my daughter's wedding, as did many of their guests. It was wonderful! We got the room with 2 queen beds and they were so comfortable! I have a very bad back and they had such comfort and support. The pillows were the best pillows I had ever... More",
+        "sentiment": "positive",
+        "score": 0.9816864728927612
+    },
+    "182": {
+        "review": "I have never in my life been treated so terribly . I was kicked out Of the hotel due to stained sheets and a carpet stain, was charged for every accusation and still asked to leave . I was even escorted by the police out of the hotel. This was about money. I was charged for something I didn't receive.... More",
+        "sentiment": "negative",
+        "score": 0.9362316131591797
+    },
+    "183": {
+        "review": "Our room was on the ground floor, facing the parking lot. This meant that any time our curtains were open, we were on display for whoever was walking/driving by. It also meant we couldn't safely leave our window(s) open at night and had to rely on the very, very loud air conditioner. Although outdated, our room was very reasonable. There... More",
+        "sentiment": "neutral",
+        "score": 0.6733062267303467
+    },
+    "184": {
+        "review": "Came to Binghamton to visit with a relative. Fairfield Inn is a convenient location. Nearby is Ostinango Park which is great for walking or running.",
+        "sentiment": "positive",
+        "score": 0.9305936098098755
+    },
+    "185": {
+        "review": "Great Experience. Nice Staff clean rooms good free breakfast",
+        "sentiment": "positive",
+        "score": 0.980769157409668
+    },
+    "186": {
+        "review": "Not a lot of options where I needed to stay for work, but this hotel was nice. Fairly updated and the staff was friendly. Walking distance to Cracker Barrel and Applebee's, which was nice. Other restaurants within driving distance. Easy to get to, right off interstate. If I was back in town for work, I'd stay here again for sure.",
+        "sentiment": "positive",
+        "score": 0.8285574316978455
+    },
+    "187": {
+        "review": "This hotel is undergoing construction. Banging and other loud noises begin early in the morning. Forget about enjoying a peaceful morning.Was very disappointed by the reaction of the hotel staff when I brought it to their attention. A free night's stay or at least a discount on my next stay may have helped the situation. Dont book this hotel until the construction is complete",
+        "sentiment": "negative",
+        "score": 0.9316394925117493
+    },
+    "188": {
+        "review": "Good Location, right off highway. Applebees next door...you can walk there! Hallway was dirty but the roomwas very clean and comfortable.",
+        "sentiment": "positive",
+        "score": 0.9639299511909485
+    },
+    "189": {
+        "review": "The hotel was fairly new and slightly out of town. The pool was refreshing. Breakfast was adequate but as usual in hotels like this, when crowded jockeying for a spot to sit can be a challenge.",
+        "sentiment": "positive",
+        "score": 0.8335707187652588
+    },
+    "190": {
+        "review": "Rooms are very small, especially for a family of 4. Beds were not very comfortable and the bathroom was also small (straddle the toilet to close the door small). The pool area was not so great. Hot tub was cloudy and the whole area had a septic smell.",
+        "sentiment": "negative",
+        "score": 0.8597501516342163
+    },
+    "191": {
+        "review": "Needs more ice machines.",
+        "sentiment": "neutral",
+        "score": 0.5967628955841064
+    },
+    "192": {
+        "review": "Trs bon sjour, tout prs de la 81, restaurant tout ct, petit-djeuner bien garni, literie confortable.",
+        "sentiment": "neutral",
+        "score": 0.8019636273384094
+    },
+    "193": {
+        "review": "The staff at the Fairfield Inn were amazing. They arranged a cab for us, offered us hot tea after a late night arrival on a very cold evening, they check in on us the next day to make sure we were settled and had everything we needed. They made sure our stay at their hotel was comfortable. An extra thank you to Candice, Bea, and Donna. Thank you ladies for going above and beyond. Great breakfast in the morning too!!",
+        "sentiment": "positive",
+        "score": 0.947677731513977
+    },
+    "194": {
+        "review": "Easily accessible in spite of traffic on 17. Clean. Bath a teensy bit small but still acceptable. We had a king bed - that's all they had available, but the two doubles may have been a little tight. We did use a rollaway cot for our son (5'10, 150lbs) and wound up putting the mattress on the floor the second night as the frame was simply too small for a teenage boy!",
+        "sentiment": "positive",
+        "score": 0.71621173620224
+    },
+    "195": {
+        "review": "I often stay at Hampton Inns but one was not conveniently located so I opted for this Fairfield Inn near Bingham ton because it seemed to be about the same quality although a little pricier. What a mistake ! The motel, although the room was clean and comfortable, was very unattractive and way overpriced for the amenities. I would have walked out but I had a no cancellation reservation. When I mentioned the unattractiveness to the desk clerk she acknowledged the problem and very nicely explained that the place was due for a major overhaul. So. if the management knew it was not up to snuff why the high rate. This experience guarantees that I will avoid Fairfield in the future and recommend that other travelers stay away also",
+        "sentiment": "negative",
+        "score": 0.8518965244293213
+    },
+    "196": {
+        "review": "visiting family... convienient to get to... room was clean... pool water could have been warmer... overall, we were satisfied.",
+        "sentiment": "positive",
+        "score": 0.939706027507782
+    },
+    "197": {
+        "review": "It was convenient a little noisy in the room with the traffic on the road (room facing the front of the building).",
+        "sentiment": "neutral",
+        "score": 0.7917173504829407
+    },
+    "198": {
+        "review": "Overpriced, small room with absolutely no view, furnishings showed years of wear and tear, small bath with thin towels, very mediocre breakfast. Worst and most expensive hotel we stayed in on a 11 night vacation sleeping in 9 different cities in 6 states",
+        "sentiment": "negative",
+        "score": 0.9465848207473755
+    },
+    "199": {
+        "review": "since most important thing for me is bed comfort, I'd say this is a winner. Nice staff, clean room. Breakfast was standard low quality mass free food, but that is to be expected.",
+        "sentiment": "positive",
+        "score": 0.9110007882118225
+    },
+    "200": {
+        "review": "Pool was good temp.. hot tub very enjoyable. Breakfast was good with lots of choices",
+        "sentiment": "positive",
+        "score": 0.9787147045135498
+    },
+    "201": {
+        "review": "Clean, spacious room. Pool and hot tub were clean.",
+        "sentiment": "positive",
+        "score": 0.9610086679458618
+    },
+    "202": {
+        "review": "This was a very nice hotel. The staff was particularly friendly and helpful, the complimentary breakfast was great, and they had the most comfortable beds I have slept in at a hotel! Would highly recommend.",
+        "sentiment": "positive",
+        "score": 0.9878153800964355
+    },
+    "203": {
+        "review": "Everything was great - very clean hotel, very clean room, excellent service at the front desk, great variety of food at breakfast. Only downside was the cost.",
+        "sentiment": "positive",
+        "score": 0.9744623899459839
+    },
+    "204": {
+        "review": "This was a fine, clean hotel. Good-sized pool and exercise room. Rooms were clean, check-in was easy. Good breakfast with waffles, eggs, bacon, yogurt, muffins, etc., etc.",
+        "sentiment": "positive",
+        "score": 0.9669026136398315
+    },
+    "205": {
+        "review": "This was a fine, clean hotel. Good-sized pool and exercise room. Rooms were clean, check-in was easy. Good breakfast with waffles, eggs, bacon, yogurt, muffins, etc., etc.",
+        "sentiment": "positive",
+        "score": 0.9669026136398315
+    },
+    "206": {
+        "review": "This is the only place I will stay in Binghamton when I am there. It is the cleanest, friendliest, and has the best breakfast around for the price. I choose Fairfield Inn's because I consistantly have a pleasurable experience there.",
+        "sentiment": "positive",
+        "score": 0.9683784246444702
+    },
+    "207": {
+        "review": "Was hoping for a nicer room based on higher room rates than other offerings. What we found was just a plain room. Wished we had stayed somewhere else for our money. Breakfast was good value and well served.",
+        "sentiment": "neutral",
+        "score": 0.40259265899658203
+    },
+    "208": {
+        "review": "We were very happy with our stay. Very nice hotel with super friendly staff. Room was clean and spacious. Had microwave, mini fridge, coffee maker. Pool area and exercise room were nice clean. Continental breakfast had lots of choices and tasted great! Loved that it was just a quick walk next door to dinner. Definitely would recommend to family friends and will absolutely stay again!",
+        "sentiment": "positive",
+        "score": 0.9868794083595276
+    },
+    "209": {
+        "review": "We were very happy with our stay. Very nice hotel with super friendly staff. Room was clean and spacious. Had microwave, mini fridge, coffee maker. Pool area and exercise room were nice clean. Continental breakfast had lots of choices and tasted great! Loved that it was just a quick walk next door to dinner. Definitely would recommend to family friends and will absolutely stay again!",
+        "sentiment": "positive",
+        "score": 0.9868794083595276
+    },
+    "210": {
+        "review": "We were very happy with our stay. Very nice hotel with super friendly staff. Room was clean and spacious. Had microwave, mini fridge, coffee maker. Pool area and exercise room were nice clean. Continental breakfast had lots of choices and tasted great! Loved that it was just a quick walk next door to dinner. Definitely would recommend to family friends and will absolutely stay again!",
+        "sentiment": "positive",
+        "score": 0.9868794083595276
+    },
+    "211": {
+        "review": "Adequate is the word I'd use.",
+        "sentiment": "neutral",
+        "score": 0.717655599117279
+    },
+    "212": {
+        "review": "all good.",
+        "sentiment": "positive",
+        "score": 0.8220270276069641
+    },
+    "213": {
+        "review": "very nice.",
+        "sentiment": "positive",
+        "score": 0.9506086707115173
+    },
+    "214": {
+        "review": "We stayed here the night before a 5k Color Run. The room was very clean - but my son did find a skittle under the bed, wedged into the corner. I think it's his goal to find 'anything' when he enters a hotel room. The beds were very comfy as were the pillows, and we were even able to enjoy the pool for a while. All in all this was a very nice hotel and the staff was great. They didn't even cringe when we walked back in after the run covered in wild colors :-)",
+        "sentiment": "positive",
+        "score": 0.8077641129493713
+    },
+    "215": {
+        "review": "Clean comfortable room with pleasant staff. No problems.",
+        "sentiment": "positive",
+        "score": 0.9543260335922241
+    },
+    "216": {
+        "review": "We stayed at this property to attend an event about 20 miles away. It's close to the highway, which was convenient for us. Room was quite comfortable and had relatively new furnishings. However, upon arrival we were greeted by a large roll away bed standing on end (i.e., it blocked part of the entry and wouldn't have fit in room if it were set up). When I went to front desk to see about having it removed, I had to wait about 10 minutes for desk person who apparently was only staff person on duty and was working desk and dealing with room issues - she went with me to room to remove bed. Also, lobby was a little iffy - lobby restroom was not clean and, there was a carpet runner in the lobby that was really several pieces of leftover wall-to-wall remnants that had been hand cut - a bit tacky and a tripping hazard. Finally, a couple had a huge, screaming fight in the middle of the night, which I found quite disturbing because I was concerned it could turn violent - not hotel's fault but still... Would return but probably only if there is no other option.",
+        "sentiment": "neutral",
+        "score": 0.7214274406433105
+    },
+    "217": {
+        "review": "We stayed at this property to attend an event about 20 miles away. It's close to the highway, which was convenient for us. Room was quite comfortable and had relatively new furnishings. However, upon arrival we were greeted by a large roll away bed standing on end (i.e., it blocked part of the entry and wouldn't have fit in room if it were set up). When I went to front desk to see about having it removed, I had to wait about 10 minutes for desk person who apparently was only staff person on duty and was working desk and dealing with room issues - she went with me to room to remove bed. Also, lobby was a little iffy - lobby restroom was not clean and, there was a carpet runner in the lobby that was really several pieces of leftover wall-to-wall remnants that had been hand cut - a bit tacky and a tripping hazard. Finally, a couple had a huge, screaming fight in the middle of the night, which I found quite disturbing because I was concerned it could turn violent - not hotel's fault but still... Would return but probably only if there is no other option.",
+        "sentiment": "neutral",
+        "score": 0.7214274406433105
+    },
+    "218": {
+        "review": "We stayed at this property to attend an event about 20 miles away. It's close to the highway, which was convenient for us. Room was quite comfortable and had relatively new furnishings. However, upon arrival we were greeted by a large roll away bed standing on end (i.e., it blocked part of the entry and wouldn't have fit in room if it were set up). When I went to front desk to see about having it removed, I had to wait about 10 minutes for desk person who apparently was only staff person on duty and was working desk and dealing with room issues - she went with me to room to remove bed. Also, lobby was a little iffy - lobby restroom was not clean and, there was a carpet runner in the lobby that was really several pieces of leftover wall-to-wall remnants that had been hand cut - a bit tacky and a tripping hazard. Finally, a couple had a huge, screaming fight in the middle of the night, which I found quite disturbing because I was concerned it could turn violent - not hotel's fault but still... Would return but probably only if there is no other option.",
+        "sentiment": "neutral",
+        "score": 0.7214274406433105
+    },
+    "219": {
+        "review": "appears to be recently remodelled, rooms were clean and new and very pleasant",
+        "sentiment": "positive",
+        "score": 0.9628924131393433
+    },
+    "220": {
+        "review": "appears to be recently remodelled, rooms were clean and new and very pleasant",
+        "sentiment": "positive",
+        "score": 0.9628924131393433
+    },
+    "221": {
+        "review": "The room we had was roomy and comfortable. The complimentary breakfast was a basic offering but much appreciated. The toilet tank had a small leak, but was only evident the morning of checkout.",
+        "sentiment": "positive",
+        "score": 0.9054931402206421
+    },
+    "222": {
+        "review": "The only complaint was trying to regulate the heat/cooling system.",
+        "sentiment": "negative",
+        "score": 0.5217790007591248
+    },
+    "223": {
+        "review": "Nice, clean and new motel. Wish the bathroom was a bit bigger. Wife did a quick turn and bruised her hip o the metal door latch.",
+        "sentiment": "positive",
+        "score": 0.7563614249229431
+    },
+    "224": {
+        "review": "Nice Hotel, close to Applebees, which delivered right to your room. The continental breakfast was also very good.",
+        "sentiment": "positive",
+        "score": 0.9831269979476929
+    },
+    "225": {
+        "review": "Good experience and very convenient to where I needed to be. Hotel was quiet and staff polite and helpful. Conveniently located between two restaurants that serve decent food at reasonable prices. Only downside was that hotel room was a bit dusty... not unclean but bedside lamp had dust on base. Very well out-fitted with outlets, however, which is needed these days. Overall, I was very pleased with my stay.",
+        "sentiment": "positive",
+        "score": 0.9389979839324951
+    },
+    "226": {
+        "review": "From the moment of check in we were pleased. Greeted cordially (not fake) we were asked if we would need anything additional (we were 6 adults and 5 children under the age of 6 renting 3 rooms). They had already put our rooms nearby (even when requested at other hotels in advance this seems to be a HUGE request and usually not done) We have stayed at other hotels in the area but your rooms are spacious and beds are wonderful. We will continue to return here anytime we are in the area.",
+        "sentiment": "positive",
+        "score": 0.8472459316253662
+    },
+    "227": {
+        "review": "We were thrilled with everything from the cleanliness to the top notch breakfast to the kindness of everyone but, the very first person we met. She was the first person we approached behind the counter when we arrived. Later we learned that she was handling both the desk and the Housekeeping roles that night. If I were to judge the facility by this one person, I would have been disappointed in her lack of hospitality in answering our questions: no smile, no patience...cranky. However the rest of our stay, and we did add an extra night, more than made up for it. This was my first getaway in 4 years on ANY kind of vacation/family celebration, so I was really hoping for a good time. I really enjoyed the cleanliness, as I own a cleaning service here in MD. Thank you so much for an overall excellent stay!!!",
+        "sentiment": "positive",
+        "score": 0.9686505794525146
+    },
+    "228": {
+        "review": "The staff was indifferent to my stay. For example, almost had to convince the front desk to go through the effort to sell me another night stay. I almost went to another hotel because it seemed too much trouble to check me out and then check me back in. Not likely to return.",
+        "sentiment": "negative",
+        "score": 0.9033434391021729
+    },
+    "229": {
+        "review": "Travel mid point stop over",
+        "sentiment": "neutral",
+        "score": 0.8310859203338623
+    },
+    "230": {
+        "review": "I had never stayed at a Fairfield Inn. I was very impressed with the staff., they were excellent. The rooms were great and the service was even better. Would definitely recommend anyone looking for a hotel to stay at a Fairfield Inn.",
+        "sentiment": "positive",
+        "score": 0.9786815047264099
+    },
+    "231": {
+        "review": "Very friendly staff and excellent breakfast choices. I question that the comforter was not double sheeted but had a light weight searsucker spread on it. Also, we received half used bottle of shampoo.",
+        "sentiment": "positive",
+        "score": 0.7996302843093872
+    },
+    "232": {
+        "review": "Very friendly staff and excellent breakfast choices. I question that the comforter was not double sheeted but had a light weight searsucker spread on it. Also, we received half used bottle of shampoo.",
+        "sentiment": "positive",
+        "score": 0.7996302843093872
+    },
+    "233": {
+        "review": "Easy on/off 81. Good service. I had requested a rollaway bed with my reservation, but they said the request wasn't there. No matter - they had one in my room within 20 mins of check-in. Overall, we were pleased.",
+        "sentiment": "positive",
+        "score": 0.6525914072990417
+    },
+    "234": {
+        "review": "The room was very clean. Staff very friendly. I was not impressed with the breakfast.",
+        "sentiment": "positive",
+        "score": 0.7774800658226013
+    },
+    "235": {
+        "review": "nice hotel, in a convenient location to IS 81. I appreciated the great breakfast, then quick access to the highway.",
+        "sentiment": "positive",
+        "score": 0.9756120443344116
+    },
+    "236": {
+        "review": "Free wifi throughout hotel",
+        "sentiment": "neutral",
+        "score": 0.5940452218055725
+    },
+    "237": {
+        "review": "Would have loved to know they were under going major renovations before I booked the room. But considering they were it was still a nice place to stay. Staff was extremely friendly and the rooms were very nice and clean. Pool and hot tub very nice an clean as well.",
+        "sentiment": "positive",
+        "score": 0.8635063171386719
+    },
+    "238": {
+        "review": "Tout a t suprieur nos attentes je le recommande fortement",
+        "sentiment": "neutral",
+        "score": 0.7143825888633728
+    },
+    "239": {
+        "review": "The room was fine...the bathroom was VERY small, but otherwise an OK stay.",
+        "sentiment": "positive",
+        "score": 0.9050124287605286
+    },
+    "240": {
+        "review": "Hotel seemed clean. Staff was pleasant. Room seemed clean but it smelled very musty. I'm not sure why it smelled that way. It would be much better if they offered rooms with 2 queen beds instead of two double beds.",
+        "sentiment": "negative",
+        "score": 0.46411949396133423
+    },
+    "241": {
+        "review": "Hotel seemed clean. Staff was pleasant. Room seemed clean but it smelled very musty. I'm not sure why it smelled that way. It would be much better if they offered rooms with 2 queen beds instead of two double beds.",
+        "sentiment": "negative",
+        "score": 0.46411949396133423
+    },
+    "242": {
+        "review": "We had a great stay. Have been to this hotel before. I would suggest the pool area floor be replaced though . It is very slippery!!! And I had to call the front desk for towels. Rooms are very nice ,beds very comfortable. Love that we can walk to Applebee's or Cracker Barrel.",
+        "sentiment": "positive",
+        "score": 0.9380253553390503
+    },
+    "243": {
+        "review": "Very comfortable. Great spread for a free breakfast buffet. The indoor pool was big enough (not huge), though the room was steamy. Friendly staff.",
+        "sentiment": "positive",
+        "score": 0.9776737689971924
+    },
+    "244": {
+        "review": "Our late evening arrival was no problem for the staff person who registered us. The parking access was perfect for my wife's limited mobility and for carting our luggage to the room and back. The breakfast buffet was well provisioned and the server friendly and accommodating.",
+        "sentiment": "positive",
+        "score": 0.892987072467804
+    },
+    "245": {
+        "review": "The staff was great. We decided to stay another day and they were very helpful. The room was extremely comfortable",
+        "sentiment": "positive",
+        "score": 0.9810834527015686
+    },
+    "246": {
+        "review": "The staff was great. We decided to stay another day and they were very helpful. The room was extremely comfortable",
+        "sentiment": "positive",
+        "score": 0.9810834527015686
+    },
+    "247": {
+        "review": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "sentiment": "neutral",
+        "score": 0.5003081560134888
+    },
+    "248": {
+        "review": "This hotel is a dump! Upon checking in was told that the place was booked with folks who are running from Isaac -- the folks are depressed, sad and crying -- we got a room with no problem as a matter of fact the parking lot and inside hotel were rather empty despite the fact that the place was booked -- the room reaked -- air conditioning unit blew out luke warm air despite having control turned to high cool -- linens and bath towels were rough and ...view morewell worn. The corridors reaked of curry/incense and it was obvious other air freshners were used to mask the obvious odors. Not opposed to other cultures but if you are going to have that sort of thing waifing through the hotel you should advertise such. My expectations are a clean room with no visible signs of anything else... would NOT recommend this place... BTW the free breakfast was nothing more than day old bakery goods with what was suppose to be biscuits and gravy... the folks running from Isaac would have been better off to weather the storm! Use this place only as a very last resort!view less",
+        "sentiment": "negative",
+        "score": 0.8723396062850952
+    },
+    "249": {
+        "review": "Room looked to be in disrepair, bathroom door didn't shut without force. The hostess was very unprofessional with her stars and bar finger nails.",
+        "sentiment": "negative",
+        "score": 0.933350682258606
+    }
+}
