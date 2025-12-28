@@ -26,7 +26,7 @@ from transformers import pipeline
 # =========================
 # Visualization
 # =========================
-import plotly.express as px
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 
@@ -171,4 +171,5 @@ def plot_correlation(df, cols = ['rating','score']):
 
   plt.figure()
   sns.heatmap(c, annot=True, fmt=".2f", linewidth=.5)
+
   plt.show()
