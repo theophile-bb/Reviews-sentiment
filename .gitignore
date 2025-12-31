@@ -1,0 +1,59 @@
+# Byte‑compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python env config
+.env
+*.env
+
+# VS Code / editor settings
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.whl
+pip-wheel-metadata/
+
+# macOS system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+*~
+.cache/
+
+# Data files (if you do NOT want them in Git)
+data/
+*.csv
+*.json
+*.xlsx
+*.parquet
+
+# Notebook output artifacts
+*.nbconvert.ipynb
+*.output.json
+
+# Spyder project settings
+.spyproject/
+
+# Coverage reports
+.coverage
+htmlcov/
