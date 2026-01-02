@@ -221,7 +221,7 @@ def plot_graph(df,title, cols=['negative', 'neutral', 'positive']):
   plt.grid(True, linestyle='--', alpha=0.6)
   plt.tight_layout()
   plt.show()
-
+"""
 def plot_correlation(df, cols = ['rating','score']):
   c = df[cols].corr(method = 'pearson')
   print(f"Correlation : ",c.iloc[0,1])
@@ -230,7 +230,7 @@ def plot_correlation(df, cols = ['rating','score']):
   sns.heatmap(c, annot=True, fmt=".2f", linewidth=.5)
 
   plt.show()
-"""
+
 
 #--------------------- Save Images ------------------------
 
@@ -246,3 +246,4 @@ def save_figs(figs, folder="plots"):
         )
 
     print(f"✅ Saved {len(figs)} figures to {folder}/")
+
