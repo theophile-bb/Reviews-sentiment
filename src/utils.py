@@ -136,6 +136,63 @@ def scale_data(df, cols):
 #--------------------- plot ------------------------
 
 def plot_wc(words):
+    wordcloud = WordCloud(
+        width=800,
+        height=400,
+        background_color='white'
+    ).generate_from_frequencies(dict(words))
+
+    fig, ax = plt.subplots(figsize=(10, 5))
+    ax.imshow(wordcloud, interpolation='bilinear')
+    ax.axis('off')
+
+    fig.tight_layout()
+    return fig
+  
+def plot_pie(df, col, title):
+    sentiment_counts = df[col].value_counts()
+
+    fig, ax = plt.subplots(figsize=(7, 7))
+    ax.pie(
+        sentiment_counts,
+        labels=sentiment_counts.index,
+        autopct='%1.1f%%',
+        colors=sns.color_palette('pastel')
+    )
+    ax.set_title(title)
+
+    fig.tight_layout()
+    return fig
+
+def plot_graph(
+    df,
+    title,
+    cols=['negative', 'neutral', 'positive']
+):
+    fig, ax = plt.subplots(figsize=(15, 7))
+
+    for col in cols:
+        if col in df.columns:
+            sns.lineplot(
+                data=df,
+                x='year_month',
+                y=col,
+                marker='o',
+                label=col.capitalize(),
+                ax=ax
+            )
+
+    ax.set_title(title, fontsize=16)
+    ax.set_xlabel('Time', fontsize=12)
+    ax.set_ylabel('Percentage', fontsize=12)
+    ax.tick_params(axis='x', rotation=90)
+    ax.grid(True, linestyle='--', alpha=0.6)
+
+    fig.tight_layout()
+    return fig
+
+"""
+def plot_wc(words):
   wordcloud = WordCloud(width=800, height=400, background_color='white').generate_from_frequencies(dict(words))
 
   plt.figure(figsize=(10, 5))
@@ -173,3 +230,4 @@ def plot_correlation(df, cols = ['rating','score']):
   sns.heatmap(c, annot=True, fmt=".2f", linewidth=.5)
 
   plt.show()
+"""
