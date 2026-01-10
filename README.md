@@ -45,6 +45,7 @@ $ pip install -r requirements.txt
 ## Getting the data
 
 The data used for this project are available on kaggme at this address : https://www.kaggle.com/datasets/datafiniti/hotel-reviews.
+
 The repository contains a small sample dataset for quick testing.
 For larger datasets:
 
