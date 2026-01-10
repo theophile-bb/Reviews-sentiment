@@ -10,7 +10,7 @@ This repository contains the code and accompanying notebook for performing **sen
 
 Reviews-sentiment/ <br>
 ├── data/ <br>
-│ ├── raw_sample.csv # Small sample dataset <br>
+│ ├── reviews.csv <br>
 ├── src/ <br>
 │ ├── init.py <br>
 │ └── utils.py # Reusable functions for data & model <br>
@@ -44,14 +44,9 @@ $ pip install -r requirements.txt
 
 ## Getting the data
 
-The data used for this project are available on kaggme at this address : https://www.kaggle.com/datasets/datafiniti/hotel-reviews.
+The data used for this project are available on kaggle at this address : https://www.kaggle.com/datasets/datafiniti/hotel-reviews.
 
-The repository contains a small sample dataset for quick testing.
-For larger datasets:
-
-Place your data in data/raw/
-
-Use functions in src/utils.py to load and process it
+The repository contains a csv file with the data.
 
 ## Notebook
 
