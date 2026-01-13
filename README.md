@@ -15,9 +15,9 @@ Reviews-sentiment/ <br>
 │ ├── reviews.csv <br>
 ├── src/ <br>
 │ ├── init.py <br>
-│ └── utils.py # Reusable functions for data & model <br>
-├── plots/ # Saved visualizations <br>
-├── Reviews_Sentiment.ipynb # Main analysis notebook <br>
+│ └── utils.py <br>
+├── plots/ <br>
+├── Reviews_Sentiment.ipynb<br>
 ├── requirements.txt <br>
 ├── .gitignore <br>
 └── README.md <br>
