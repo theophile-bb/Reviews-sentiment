@@ -1,6 +1,8 @@
 # Reviews Sentiment Analysis
 
 [![Colab](https://img.shields.io/badge/Open%20in-Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/theophile-bb/Reviews-sentiment/blob/main/Reviews_Sentiment.ipynb)
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)]([https://www.kaggle.com/datasets/yelexa/spotify200](https://www.kaggle.com/datasets/datafiniti/hotel-reviews))
+
 
 This repository contains the code and accompanying notebook for performing **sentiment analysis on text reviews** using modern NLP tools and models. The aim is to classify reviews into sentiment categories and provide reusable functions for preprocessing, analysis, and inference.
 
@@ -40,13 +42,15 @@ $ git clone https://github.com/theophile-bb/Reviews-sentiment.git
 $ cd Reviews-sentiment
 $ pip install -r requirements.txt
 ```
-
+---
 
 ## Getting the data
 
 The data used for this project are available on kaggle at this address : https://www.kaggle.com/datasets/datafiniti/hotel-reviews.
 
 The repository contains a csv file with the data.
+
+---
 
 ## Notebook
 
@@ -62,6 +66,7 @@ The main notebook Reviews_Sentiment.ipynb walks through:
 
 - Example of predictions
 
+---
 
 ## Visualizations
 
