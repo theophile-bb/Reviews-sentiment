@@ -4,7 +4,7 @@
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)]([https://www.kaggle.com/datasets/yelexa/spotify200](https://www.kaggle.com/datasets/datafiniti/hotel-reviews))
 
 
-This repository contains the code and accompanying notebook for performing **sentiment analysis on text reviews** using modern NLP tools and models. The aim is to classify reviews into sentiment categories and provide reusable functions for preprocessing, analysis, and inference.
+This repository contains the code and notebook to perfom **sentiment analysis on hotel reviews** using modern NLP tools and models. The goal is to classify reviews into sentiment categories and provide reusable functions for preprocessing, analysis, and inference.
 
 ---
 
