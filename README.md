@@ -75,7 +75,7 @@ Example of visualizations made :
 *Wordcloud for positive reviews*
 ![Wordcloud for positive reviews](plots/plot_3_20260102_183439.png)
 
-*Evolution of reviews sentiment of time*
+*Evolution of reviews sentiment over time*
 ![Evolution of reviews sentiment of time](plots/plot_6_20260102_183439.png)
 
 *Mean rate over time*
