@@ -1,13 +1,8 @@
-# =========================
-# Third-party libraries
-# =========================
 import pandas as pd
 import numpy as np
 import os 
 from datetime import datetime
-# =========================
-# NLP
-# =========================
+
 import nltk
 nltk.download('punkt_tab')
 from nltk import word_tokenize
@@ -19,19 +14,11 @@ import string
 import gensim.parsing.preprocessing as gp
 from sklearn.preprocessing import StandardScaler
 
-# =========================
-# Call BERT
-# =========================
 from transformers import pipeline
 
-# =========================
-# Visualization
-# =========================
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
-#--------------------- processing ------------------------
 
 def data_processing(df, columnDict):
   df = df[list(columnDict.keys())].copy()
@@ -69,7 +56,6 @@ def text_cleaning(df, col):
   df = df[df[col].apply(lambda x: len(x) > 0)].reset_index(drop=True)
   return df
 
-#--------------------- Tokenization ------------------------
 
 def get_sentiment(df, col, nb = None):
   reviewList = df[col].head(nb).tolist()
@@ -86,7 +72,6 @@ def get_sentiment(df, col, nb = None):
   reviews_sentiment = pd.concat([df.head(nb).reset_index(drop=True), df_sentiment], axis=1)
   return reviews_sentiment
 
-#--------------------- Word frequency ------------------------
 
 def get_most_common_words(df, col):
   fdist_list = [FreqDist(text) for text in df[col]]
@@ -112,7 +97,6 @@ def compute_importance_ratio(reference_frequency, compared_frequency, threshold=
   specific_words_sorted = sorted(specific_words.items(), key=lambda x: x[1], reverse=True)
   return specific_words_sorted
 
-#--------------------- Time indexed ------------------------
 
 def over_time(df):
   df_copy = df.copy()
@@ -134,7 +118,6 @@ def scale_data(df, cols):
   df_scaled[cols] = scaler.fit_transform(df[cols])
   return df_scaled
 
-#--------------------- plot ------------------------
 
 def plot_wc(words):
     wordcloud = WordCloud(
@@ -223,6 +206,7 @@ def plot_graph(df,title, cols=['negative', 'neutral', 'positive']):
   plt.tight_layout()
   plt.show()
 """
+
 def plot_correlation(df, cols = ['rating','score']):
   c = df[cols].corr(method = 'pearson')
   print(f"Correlation : ",c.iloc[0,1])
@@ -232,8 +216,6 @@ def plot_correlation(df, cols = ['rating','score']):
 
   plt.show()
 
-
-#--------------------- Save Images ------------------------
 
 def save_figs(figs, folder="plots"):
     os.makedirs(folder, exist_ok=True)
@@ -247,5 +229,6 @@ def save_figs(figs, folder="plots"):
         )
 
     print(f"✅ Saved {len(figs)} figures to {folder}/")
+
 
 
