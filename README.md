@@ -10,17 +10,23 @@ This repository contains the code and notebook to perfom **sentiment analysis on
 
 ## Project Structure
 
-Reviews-sentiment/ <br>
-├── data/ <br>
-│ ├── reviews.csv <br>
-├── src/ <br>
-│ ├── init.py <br>
-│ └── utils.py <br>
-├── plots/ <br>
-├── Reviews_Sentiment.ipynb<br>
-├── requirements.txt <br>
-├── .gitignore <br>
-└── README.md <br>
+Reviews-sentiment/
+├── 📂 data/
+│   └── reviews.csv
+│
+├── 📂 src/
+│   ├── __init__.py
+│   └── utils.py
+│
+├── 📂 plots/
+│   └── (visualizations)
+│
+├── 📂 notebooks/
+│   └── Reviews_Sentiment.ipynb
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 ---
 
