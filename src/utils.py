@@ -128,7 +128,7 @@ def scale_data(df: pd.DataFrame, cols: List[str]) -> pd.DataFrame:
     return df_scaled
 
 
-def plot_wc(words: Union[Dict[str, Union[int, float]], List[Tuple[str, Union[int, float]]]]) -> plt.Figure:
+def plot_wc(words: Union[Dict[str, Union[int, float]], List[Tuple[str, Union[int, float]]]], title: str) -> plt.Figure:
     wordcloud = WordCloud(
         width=800,
         height=400,
@@ -138,6 +138,7 @@ def plot_wc(words: Union[Dict[str, Union[int, float]], List[Tuple[str, Union[int
     fig, ax = plt.subplots(figsize=(10, 5))
     ax.imshow(wordcloud, interpolation='bilinear')
     ax.axis('off')
+    ax.set_title(title, fontsize=16)
     fig.tight_layout()
     return fig
 
@@ -151,7 +152,7 @@ def plot_pie(df: pd.DataFrame, col: str, title: str) -> plt.Figure:
         autopct='%1.1f%%',
         colors=sns.color_palette('pastel')
     )
-    ax.set_title(title)
+    ax.set_title(title, fontsize=16)
     fig.tight_layout()
     return fig
 
@@ -207,4 +208,5 @@ def save_figs(figs: List[plt.Figure], folder: str = "plots") -> None:
         )
         
     print(f"✅ Saved {len(figs)} figures to {folder}/")
+
 
