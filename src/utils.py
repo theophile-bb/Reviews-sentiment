@@ -190,6 +190,11 @@ def plot_correlation(df: pd.DataFrame, cols: List[str] = ['rating', 'score']) ->
     plt.title("Correlation Heatmap")
     plt.show()
 
+def save_figure_png(fig, folder: str, title: str) -> None:
+    title = title.replace(' ','_')
+    img_path = os.path.join(folder, f"{title}.png")
+    fig.savefig(img_path, dpi=300, bbox_inches="tight")    
+
 def save_figs(figs: List[plt.Figure], folder: str = "plots") -> None:
     os.makedirs(folder, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -202,3 +207,4 @@ def save_figs(figs: List[plt.Figure], folder: str = "plots") -> None:
         )
         
     print(f"✅ Saved {len(figs)} figures to {folder}/")
+
